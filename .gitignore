@@ -1,0 +1,21 @@
+# Data Files
+*.csv
+*.xlsx
+*.xls
+*.XLS
+*.zip
+*.rar
+*.txt
+*.pptx
+*.png
+*.pdf
+*.ows
+
+# Pentaho Jobs
+*.ktr
+*.kjb
+
+# DA Tools
+*.pbix
+*.twb
+*.hyper
